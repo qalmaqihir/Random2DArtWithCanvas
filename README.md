@@ -1,7 +1,5 @@
 # Random2DArtWithCanvas
 
-# PainterAppModification
-
 ###### By Jawad Haider
 ## Instruction
 Write an app that continuously draws shapes of your choosing on a Canvas. Use random positions, sizes, locations, line widths, fills, and alpha transparencies. The shapes should randomly move around the Canvas in different directions and at different speeds.
